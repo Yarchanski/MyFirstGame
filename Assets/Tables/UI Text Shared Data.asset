@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 6e3981a51c260af4ab7e6af26065e0b4
+  m_Entries:
+  - m_Id: 302852612096
+    m_Key: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2821976760320
+    m_Key: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3205952708608
+    m_Key: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3672506114048
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3952748535808
+    m_Key: Russian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4247142539264
+    m_Key: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6654928887808
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6878749532160
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7141484929024
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7800623996928
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8106980155392
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8865666834432
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9052476940288
+    m_Key: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9925013807104
+    m_Key: Game over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10804286726144
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6234361807238070300
+  references:
+    version: 2
+    RefIds:
+    - rid: 6234361807238070300
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733066995466
